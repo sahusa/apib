@@ -1,0 +1,16 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "teste for zeit/now",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },  
+  "author": "Vinicius Barboza",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
